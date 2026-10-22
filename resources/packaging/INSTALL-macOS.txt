@@ -1,0 +1,14 @@
+openkick for macOS
+==================
+
+1. Copy openkick.vst3 to /Library/Audio/Plug-Ins/VST3/
+   (FL Studio only scans this system folder; most other hosts also scan
+   ~/Library/Audio/Plug-Ins/VST3/).
+
+2. The plugin is not notarized. If macOS refuses to load it, run once:
+
+       sudo xattr -dr com.apple.quarantine /Library/Audio/Plug-Ins/VST3/openkick.vst3
+
+3. Rescan plugins in your DAW. openkick appears under Fx > Dynamics.
+
+Universal binary: Apple Silicon and Intel, macOS 10.13 or later.

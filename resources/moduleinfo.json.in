@@ -1,0 +1,29 @@
+{
+  "Name": "openkick",
+  "Version": "@VERSION@",
+  "Factory Info": {
+    "Vendor": "kornstein",
+    "URL": "https://github.com/kornstein/openkick",
+    "E-Mail": "",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false
+    }
+  },
+  "Compatibility": [],
+  "Classes": [
+    {
+      "CID": "4F4B4B318E2D4C1A9B7F3E26D15C0A77",
+      "Category": "Audio Module Class",
+      "Name": "openkick",
+      "Vendor": "kornstein",
+      "Version": "@VERSION@",
+      "SDKVersion": "VST 3.7.12",
+      "Sub Categories": ["Fx", "Dynamics"],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": []
+    }
+  ]
+}

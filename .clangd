@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-std=c11, -Isrc, -Ithird_party/vst3_c_api, -Ithird_party/stb]

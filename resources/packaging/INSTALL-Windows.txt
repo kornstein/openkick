@@ -1,0 +1,10 @@
+openkick for Windows
+====================
+
+1. Copy the openkick.vst3 folder to:
+
+       C:\Program Files\Common Files\VST3\
+
+2. Rescan plugins in your DAW. openkick appears under Fx > Dynamics.
+
+64-bit Windows 10 or later.
