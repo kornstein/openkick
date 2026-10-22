@@ -111,8 +111,7 @@ openkick
 
 ## Credits
 
-The envelope algorithm in `src/dsp/` was written by hand. The user interface was built with
-[Claude](https://claude.ai).
+The envelope algorithm was written by hand. The user interface was built with [Claude](https://claude.ai).
 
 openkick builds on the [VST3 C API](https://github.com/steinbergmedia/vst3_c_api),
 [stb](https://github.com/nothings/stb), and the [Instrument Serif](https://github.com/Instrument/instrument-serif),
